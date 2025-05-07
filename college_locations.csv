@@ -1,0 +1,777 @@
+college,long,lat,State
+Abilene Christian University,-99.70735955,32.4699728,Texas
+Adelphi University,-73.65197185,40.7197638,New York
+Adrian College,-84.0608324,41.89849465,Michigan
+Agnes Scott College,-84.2944452,33.7688851,Georgia
+Alaska Pacific University,-149.8098437,61.1888471,Alaska
+Albertson College,-116.949748,43.619187,Idaho
+Albertus Magnus College,-72.928837,41.329045,Connecticut
+Albion College,-84.74290095,42.2437255,Michigan
+Albright College,-75.91176287,40.3627666,Pennsylvania
+Alderson-Broaddus College,-80.04973732,39.15733365,West Virginia
+Alfred University,-77.78570871,42.255862,New York
+Allegheny College,-80.14529767,41.6480894,Pennsylvania
+Allentown Coll. of St. Francis de Sales,-75.478699,40.594806,Pennsylvania
+Alma College,-84.67134903,43.38147395,Michigan
+Alverno College,-87.96548224,42.98375305,Wisconsin
+American International College,-72.558754,42.113338,Massachusetts
+Amherst College,-72.51606918,42.3703768,Massachusetts
+Anderson University,-85.66071898,40.11455395,Indiana
+Andrews University,-86.36331554,41.96966265,Michigan
+Angelo State University,-100.4553039,31.4389278,Texas
+Antioch University,-122.3462752,47.6159398,Washington
+Appalachian State University,-81.6860913,36.21135245,North Carolina
+Aquinas College,-85.034459,42.964923,Michigan
+Arizona State University Main campus,-111.932044,33.416633,Arizona
+Arkansas College (Lyon College),-91.6243052,35.7775766,Arkansas
+Arkansas Tech University,-93.13553584,35.2936705,Arkansas
+Assumption College,-71.82759,42.302329,Massachusetts
+Auburn University-Main Campus,-85.484619,32.604721,Alabama
+Augsburg College,-93.2446,44.9665,Minnesota
+Augustana College,-90.55036987,41.5015277,Illinois
+Augustana College IL,-90.55036987,41.5015277,Illinois
+Austin College,-96.59801788,33.6474084,Texas
+Averett College,-85.831957,31.304516,Alabama
+Baker University,-95.1871672,38.77756075,Kansas
+Baldwin-Wallace College,-81.84848947,41.37161015,Ohio
+Barat College,-87.83031665,42.23407975,Illinois
+Bard College,-73.906885,42.0216207,New York
+Barnard College,-73.96352578,40.80951685,New York
+Barry University,-80.20151681,25.8790289,Florida
+Baylor University,-97.11029056,31.55043405,Texas
+Beaver College,-80.30630009,40.65479325,Pennsylvania
+Bellarmine College,-85.70584114,38.2187504,Kentucky
+Belmont Abbey College,-81.03636115,35.2614301,North Carolina
+Belmont University,-86.79265777,36.13278325,Tennessee
+Beloit College,-89.01577774,42.5009819,Wisconsin
+Bemidji State University,-94.87407843,47.4850208,Minnesota
+Benedictine College,-95.11391905,39.5751839,Kansas
+Bennington College,-73.23852532,42.92044325,Vermont
+Bentley College,-71.229244,42.388672,Massachusetts
+Berry College,-85.19174087,34.293036,Georgia
+Bethany College,-80.56165857,40.20580445,West Virginia
+Bethel College,-97.34339387,38.0761894,Kansas
+Bethel College KS,-97.34339387,38.0761894,Kansas
+Bethune Cookman College,-81.0319825,29.21185355,Florida
+Birmingham-Southern College,-86.85584697,33.51618545,Alabama
+Blackburn College,-89.87157712,39.28959765,Illinois
+Bloomsburg Univ. of Pennsylvania,-76.44703607,41.0089926,Pennsylvania
+Bluefield College,-81.2480024,37.24510425,Virginia
+Bluffton College,-83.9081696,40.9052171,Ohio
+Boston University,-71.10170123,42.3504324,Massachusetts
+Bowdoin College,-69.96142281,43.90869735,Maine
+Bowling Green State University,-83.62978902,41.3795005,Ohio
+Bradford College,-71.176638,42.774325,Massachusetts
+Bradley University,-89.61551386,40.6981131,Illinois
+Brandeis University,-71.25801965,42.36650945,Massachusetts
+Brenau University,-83.82235378,34.30369005,Georgia
+Brewton-Parker College,-82.58389675,32.1862441,Georgia
+Briar Cliff College,-96.350056,42.498866,Iowa
+Bridgewater College,-78.9715026,38.3772478,Virginia
+Brigham Young University at Provo,-111.649316,40.250759,Utah
+Brown University,-71.40880087,41.8186395,Rhode Island
+Bryn Mawr College,-75.31545509,40.0286808,Pennsylvania
+Bucknell University,-76.88796034,40.9515356,Pennsylvania
+Buena Vista College,-95.153076,42.641673,Iowa
+Butler University,-86.17374943,39.8407191,Indiana
+Cabrini College,-75.37450457,40.05625795,Pennsylvania
+Caldwell College,-74.27132973,40.83390785,New Jersey
+California Lutheran University,-118.837707,34.228515,California
+California Polytechnic-San Luis,-120.659615,35.301825,California
+California State University at Fresno,-119.725537,36.810489,California
+Calvin College,-85.603291,42.932437,Michigan
+Campbell University,-78.7392468,35.408071,North Carolina
+Campbellsville College,-85.348012,37.347069,Kentucky
+Canisius College,-78.86104023,42.92180235,New York
+Capital University,-82.93763172,39.9557598,Ohio
+Capitol College,-76.876978,39.03092,Maryland
+Carleton College,-93.14145806,44.47183535,Minnesota
+Carnegie Mellon University,-79.94271918,40.4441897,Pennsylvania
+Carroll College,-88.22926409,43.00395265,Wisconsin
+Carson-Newman College,-83.4893263,36.12206325,Tennessee
+Carthage College,-87.82229092,42.6228012,Wisconsin
+Case Western Reserve University,-81.60070217,41.50138695,Ohio
+Castleton State College,-73.1804683,43.6064743,Vermont
+Catawba College,-80.48600853,35.69155045,North Carolina
+Catholic University of America,-76.827759,38.935009,District of Columbia
+Cedar Crest College,-75.5196287,40.5870414,Pennsylvania
+Cedarville College,-83.81705049,39.7540491,Ohio
+Centenary College,-74.171257,40.868567,New Jersey
+Centenary College of Louisiana,-93.73171274,32.4842248,Louisiana
+Center for Creative Studies,-83.06304457,42.36128,Michigan
+Central College,-92.93159878,41.4036435,Iowa
+Central Connecticut State University,-72.76542903,41.69292775,Connecticut
+Central Missouri State University,-93.73796,38.76279,Missouri
+Central Washington University,-120.5367304,47.00646895,Washington
+Central Wesleyan College,-81.009468,34.938557,South Carolina
+Centre College,-84.78112961,37.64504455,Kentucky
+Chapman University,-117.82947,33.793526,California
+Chatham College,-79.915862,40.438281,Pennsylvania
+Chestnut Hill College,-75.2268789,40.0865064,Pennsylvania
+Christendom College,-78.14444352,38.94998615,Virginia
+Christian Brothers University,-89.98022498,35.1289696,Tennessee
+Christopher Newport University,-76.49557123,37.0637197,Virginia
+Claflin College,-80.400692,33.491856,South Carolina
+Claremont McKenna College,-117.706353,34.103281,California
+Clark University,-71.82295086,42.25146815,Massachusetts
+Clarke College,-90.665496,42.494761,Iowa
+Clarkson University,-75.00623975,44.65958875,New York
+Clemson University,-82.845015,34.678076,South Carolina
+Clinch Valley Coll. of the Univ. of Virginia,-83.032126,36.86342,Virginia
+Coe College,-91.65696645,41.99059715,Iowa
+Coker College,-80.665606,34.37368,South Carolina
+Colby College,-69.65845831,44.56118735,Maine
+Colgate University,-75.53958156,42.8154037,New York
+College Misericordia,-75.976656,41.337745,Pennsylvania
+College of Charleston,-79.93757,32.783577,South Carolina
+College of Mount St. Joseph,-84.63803736,39.0948316,Ohio
+College of Mount St. Vincent,-73.90696802,40.91285705,New York
+College of Notre Dame,-76.714283,39.363685,Maryland
+College of Notre Dame of Maryland,-76.727179,39.352054,Maryland
+College of Saint Benedict,-94.31829629,45.5594818,Minnesota
+College of Saint Catherine,-93.175697,44.932426,Minnesota
+College of Saint Elizabeth,-74.4376235,40.7809047,New Jersey
+College of Saint Rose,-73.78582895,42.6634258,New York
+College of Santa Fe,-105.956043,35.652832,New Mexico
+College of St. Joseph,-73.0008835,43.6005464,Vermont
+College of St. Scholastica,-92.10583,46.81518865,Minnesota
+College of William and Mary,-76.72204886,37.26909335,Virginia
+College of Wooster,-81.93385832,40.81161765,Ohio
+College of the Holy Cross,-71.80702484,42.23668645,Massachusetts
+Colorado College,-104.825709,38.847282,Colorado
+Colorado State University,-105.081373,40.574301,Colorado
+Columbia College,-87.62650391,41.8753881,Illinois
+Columbia College MO,-92.3265723,38.9578166,Missouri
+Columbia University,-73.96164947,40.80775585,New York
+Concordia College at St. Paul,-93.102859,44.961177,Minnesota
+Concordia Lutheran College,-96.703906,40.814266,Nebraska
+Concordia University,-122.636533,45.578007,Oregon
+Concordia University CA,-118.049686,34.008381,California
+Connecticut College,-72.107634,41.355376,Connecticut
+Converse College,-82.010041,34.932197,South Carolina
+Cornell College,-91.42398553,41.9253978,Iowa
+Creighton University,-95.94505554,41.26585655,Nebraska
+Culver-Stockton College,-91.5316408,40.1288229,Missouri
+Cumberland College,-84.52324,36.977107,Kentucky
+D'Youville College,-78.89102009,42.9028358,New York
+Dana College,-96.476157,41.453748,Nebraska
+Daniel Webster College,-71.492872,42.819429,New Hampshire
+Dartmouth College,-72.29420887,43.70467565,New Hampshire
+Davidson College,-80.83393028,35.5032193,North Carolina
+DePauw University,-86.861676,39.6397676,Indiana
+Defiance College,-84.35295442,41.2978185,Ohio
+Delta State University,-90.73290036,33.747589,Mississippi
+Denison University,-82.52248588,40.07300505,Ohio
+Dickinson College,-77.19957404,40.20281155,Pennsylvania
+Dickinson State University,-77.19797272,40.19987325,Pennsylvania
+Dillard University,-90.06536777,29.9962374,Louisiana
+Doane College,-96.94717593,40.62131545,Nebraska
+Dominican College of Blauvelt,-73.95433458,41.05322915,New York
+Dordt College,-96.16404679,43.08066095,Iowa
+Dowling College,-73.141269,40.744423,New York
+Drake University,-93.65527532,41.60307425,Iowa
+Drew University,-74.42816053,40.76053795,New Jersey
+Drury College,-93.15117,37.203635,Missouri
+Duke University,-78.94422972,36.0001557,North Carolina
+Earlham College,-84.91323124,39.8204275,Indiana
+East Carolina University,-79.04775327,35.90503535,North Carolina
+East Tennessee State University,-82.36945751,36.3022214,Tennessee
+East Texas Baptist University,-94.3727409,32.5558775,Texas
+Eastern College,-75.455624,40.041381,Pennsylvania
+Eastern Connecticut State University,-72.21764904,41.7210177,Connecticut
+Eastern Illinois University,-88.17549017,39.479694,Illinois
+Eastern Mennonite College,-78.87794515,38.47216285,Virginia
+Eastern Nazarene College,-71.01084586,42.2715556,Massachusetts
+Eckerd College,-82.6883377,27.7176612,Florida
+Elizabethtown College,-76.59008613,40.149469,Pennsylvania
+Elmira College,-76.794368,42.089497,New York
+Elms College,-72.60042301,42.14190105,Massachusetts
+Elon College,-79.5058563,36.1070798,North Carolina
+Embry Riddle Aeronautical University,-112.4528493,34.61587285,Arizona
+Emory & Henry College,-81.82918716,36.7716217,Virginia
+Emory University,-84.3172378,33.80045465,Georgia
+Emporia State University,-96.1801001,38.4132728,Kansas
+Erskine College,-81.949386,34.422502,South Carolina
+Eureka College,-89.26588087,40.71304545,Illinois
+Evergreen State College,-122.4545622,47.25648945,Washington
+Fairfield University,-73.259332,41.156096,Connecticut
+Fayetteville State University,-78.89263536,35.073715,North Carolina
+Ferrum College,-80.02813059,36.93142245,Virginia
+Flagler College,-81.32070182,29.89339515,Florida
+Florida Institute of Technology,-80.62300403,28.064271,Florida
+Florida International University,-80.37628328,25.7553898,Florida
+Florida Southern College,-81.94554251,28.0304561,Florida
+Florida State University,-84.29747867,30.44235995,Florida
+Fontbonne College,-90.31570077,38.6416544,Missouri
+Fordham University,-73.88603169,40.86173435,New York
+Fort Lewis College,-107.632793,37.275899,Colorado
+Francis Marion University,-79.676124,34.189051,South Carolina
+Franciscan University of Steubenville,-80.62193142,40.376755,Ohio
+Franklin College,-86.03725773,39.47660655,Indiana
+Franklin Pierce College,-71.4947929,43.2125814,New Hampshire
+Freed-Hardeman University,-88.63662785,35.43981645,Tennessee
+Fresno Pacific College,-119.725043,36.758232,California
+Furman University,-82.437465,34.927948,South Carolina
+Gannon University,-80.0867293,42.1281052,Pennsylvania
+Gardner Webb University,-81.67023803,35.24782945,North Carolina
+Geneva College,-80.32171347,40.77108845,Pennsylvania
+George Fox College,-79.8871119,36.0920646,North Carolina
+George Mason University,-77.30798839,38.83133325,Virginia
+George Washington University,-77.04744828,38.89989375,Washington
+Georgetown College,-84.5547021,38.2072849,Kentucky
+Georgetown University,-77.07277,38.908971,District of Columbia
+Georgia Institute of Technology,-84.39880767,33.7760948,Georgia
+Georgia State University,-84.38542087,33.7535889,Georgia
+Georgian Court College,-74.125109,40.071098,New Jersey
+Gettysburg College,-77.23964054,39.8374688,Pennsylvania
+Goldey Beacom College,-75.534827,39.734007,Delaware
+Gonzaga University,-117.4030666,47.6662634,Washington
+Gordon College,-70.8203006,42.5888528,Massachusetts
+Goshen College,-85.82522496,41.56248295,Indiana
+Goucher College,-76.59287092,39.408995,Maryland
+Grace College and Seminary,-85.84789,41.216342,Indiana
+Graceland College,-93.735754,40.73761,Iowa
+Grand Valley State University,-85.89964905,42.9678586,Michigan
+Green Mountain College,-73.2402675,43.5171266,Vermont
+Greensboro College,-79.8008558,36.0713888,North Carolina
+Greenville College,-89.40925707,38.89419455,Illinois
+Grinnell College,-92.71984863,41.75111985,Iowa
+Grove City College,-80.07874862,41.1553489,Pennsylvania
+Guilford College,-79.8872571,36.0918026,North Carolina
+Gustavus Adolphus College,-93.97404805,44.3217827,Minnesota
+Gwynedd Mercy College,-75.23549052,40.19868565,Pennsylvania
+Hamilton College,-75.40693894,43.0537974,New York
+Hamline University,-93.16459929,44.96649975,Minnesota
+Hampden - Sydney College,-78.46056919,37.24237495,Virginia
+Hampton University,-76.33862554,37.0210096,Virginia
+Hanover College,-85.4610948,38.7141725,Indiana
+Hardin-Simmons University,-99.73415759,32.4777117,Texas
+Harding University,-91.72633292,35.24577775,Arkansas
+Hartwick College,-75.07146883,42.45997815,New York
+Harvard University,-71.12221394,42.36574325,Massachusetts
+Harvey Mudd College,-117.708388,34.106552,California
+Hastings College,-98.36549671,40.5943839,Nebraska
+Hendrix College,-73.12294176,40.9118436,New York
+Hillsdale College,-84.63023057,41.9318835,Michigan
+Hiram College,-81.14306813,41.3136471,Ohio
+Hobart and William Smith Colleges,-76.98719739,42.8570498,New York
+Hofstra University,-73.6000199,40.7169088,New York
+Hollins College,-79.947051,37.330559,Virginia
+Hood College,-77.41891707,39.4229618,Maryland
+Hope College,-86.09964267,42.7867245,Michigan
+Houghton College,-78.489914,42.418601,New York
+Huntingdon College,-86.2852461,32.3509723,Alabama
+Huntington College,-85.50221185,40.89905155,Indiana
+Huron University,-98.210429,44.353174,South Dakota
+Husson College,-70.2175542,44.0984065,Maine
+Illinois Benedictine College,-88.071627,41.844669,Illinois
+Illinois College,-90.24647315,39.7291655,Illinois
+Illinois Institute of Technology,-87.62647228,41.83616405,Illinois
+Illinois State University,-89.00846071,40.51799375,Illinois
+Illinois Wesleyan University,-88.99042108,40.49242715,Illinois
+Immaculata College,-75.657,40.0364,Pennsylvania
+Incarnate Word College,-98.463476,29.462528,Texas
+Indiana State University,-87.40819676,39.4703727,Indiana
+Indiana University at Bloomington,-86.526781,39.167723,Indiana
+Indiana Wesleyan University,-85.66411627,40.51642705,Indiana
+Iona College,-73.7882666,40.9252494,New York
+Iowa State University,-93.64473746,42.0279608,Iowa
+Ithaca College,-76.49832946,42.41970355,New York
+James Madison University,-78.86896481,38.4364404,Virginia
+Jamestown College,-98.705941,46.902984,North Dakota
+Jersey City State College,-74.077624,40.71769,New Jersey
+John Brown University,-92.3646106,34.7773056,Arkansas
+John Carroll University,-81.52872292,41.4904062,Ohio
+Johns Hopkins University,-76.62185358,39.33020225,Maryland
+Johnson State College,-72.6669458,44.6445964,Vermont
+Judson College,-87.31309343,32.62940855,Alabama
+Juniata College,-78.0151628,40.5012255,Pennsylvania
+Kansas State University,-96.58845116,39.20883,Kansas
+Kansas Wesleyan University,-97.61005437,38.8135329,Kansas
+Keene State College,-72.28296164,42.92527915,New Hampshire
+Kentucky Wesleyan College,-87.12070052,37.74292605,Kentucky
+Kenyon College,-82.3942746,40.3725696,Ohio
+Keuka College,-77.08995736,42.6147014,New York
+King College,-81.68203003,36.2173887,North Carolina
+King's College,-75.963166,41.239133,Pennsylvania
+Knox College,-90.37225827,40.9419283,Illinois
+La Roche College,-80.0158079,40.5672711,Pennsylvania
+La Salle University,-75.15402197,40.0374268,Pennsylvania
+LaGrange College,-85.04675028,33.03381105,Georgia
+Lafayette College,-75.20924605,40.6986835,Pennsylvania
+Lake Forest College,-87.82948207,42.24761745,Illinois
+Lakeland College,-87.83889,43.75292,Wisconsin
+Lamar University,-94.07589293,30.03889465,Texas
+Lambuth University,-88.828114,35.6236835,Tennessee
+Lander University,-82.023945,34.179184,South Carolina
+Lawrence University,-88.398891,44.2607247,Wisconsin
+Le Moyne College,-76.08517611,43.04834115,New York
+LeTourneau University,-94.72644452,32.46575895,Texas
+Lebanon Valley College,-76.5143645,40.3324015,Pennsylvania
+Lehigh University,-75.3782488,40.6068028,Pennsylvania
+Lenoir-Rhyne College,-81.346549,35.731714,North Carolina
+Lesley College,-71.11696705,42.380419,Massachusetts
+Lewis University,-88.08221383,41.60277235,Illinois
+Lewis and Clark College,-122.6700384,45.44850495,Oregon
+Lincoln Memorial University,-83.66162405,36.5718381,Tennessee
+Lincoln University,-75.92870551,39.8065518,Pennsylvania
+Lindenwood College,-90.563609,39.804147,Missouri
+Linfield College,-123.1981384,45.1984734,Oregon
+Livingstone College,-80.48567951,35.67128695,North Carolina
+Lock Haven University of Pennsylvania,-77.46248455,41.140913,Pennsylvania
+Longwood College,-78.13357,37.292766,Virginia
+Loras College,-90.6815163,42.5041692,Iowa
+Louisiana College,-92.442139,31.337159,Louisiana
+Louisiana State University at Baton Rouge,-91.186825,30.414469,Louisiana
+Louisiana Tech University,-92.64780154,32.5263599,Louisiana
+Loyola College,-76.621566,38.98193,Maryland
+Loyola Marymount University,-118.421642,33.967661,California
+Loyola University,-90.12045156,29.9356364,Louisiana
+Loyola University Chicago,-87.65737042,41.9991492,Illinois
+Luther College,-91.813073,43.313446,Iowa
+Lycoming College,-76.99988255,41.2454429,Pennsylvania
+Lynchburg College,-79.167787,37.414838,Virginia
+Lyndon State College,-72.02475346,44.53485005,Vermont
+MacMurray College,-90.22311044,39.73089025,Illinois
+Macalester College,-93.16928542,44.9376912,Minnesota
+Malone College,-81.37980062,40.8265967,Ohio
+Manchester College,-85.369006,40.969256,Indiana
+Manhattan College,-73.90431468,40.8874403,New York
+Manhattanville College,-73.7155858,41.0313935,New York
+Mankato State University,-93.99775247,44.1453537,Minnesota
+Marian College of Fond du Lac,-88.448313,43.798138,Wisconsin
+Marietta College,-81.44842251,39.41609505,Ohio
+Marist College,-73.938819,41.727483,New York
+Marquette University,-87.93158327,43.03888115,Wisconsin
+Marshall University,-82.42740243,38.42362575,West Virginia
+Mary Baldwin College,-79.0681974,38.15402875,Virginia
+Mary Washington College,-122.2922133,48.435934,Washington
+Marymount College Tarrytown,-73.868521,41.056002,New York
+Marymount Manhattan College,-73.95969635,40.76893065,New York
+Marymount University,-77.12768184,38.9054445,Virginia
+Maryville College,-83.9642249,35.751472,Tennessee
+Maryville University,-90.5043057,38.6458826,Missouri
+Marywood College,-75.650252,41.446298,Pennsylvania
+Massachusetts Institute of Technology,-71.09662724,42.3582529,Massachusetts
+Mayville State University,-97.32007638,47.5049914,North Dakota
+McKendree College,-85.9660744,37.8317345,Kentucky
+McMurry University,-99.74874358,32.42933465,Texas
+McPherson College,-97.64194996,38.37222595,Kansas
+Mercer University,-83.65067021,32.8289341,Georgia
+Mercyhurst College,-79.835547,42.2201193,Pennsylvania
+Meredith College,-78.6889369,35.79821395,North Carolina
+Merrimack College,-71.12292178,42.66688065,Massachusetts
+Mesa State College,-108.603864,39.064703,Colorado
+Messiah College,-76.99268166,40.15912375,Pennsylvania
+Miami University at Oxford,-84.745231,39.50735,Ohio
+Michigan State University,-84.48038687,42.70237935,Michigan
+Michigan Technological University,-88.55115133,47.1099114,Michigan
+MidAmerica Nazarene College,-94.775643,38.873551,Kansas
+Millersville University of Penn.,-76.354135,40.007741,Pennsylvania
+Milligan College,-82.29482628,36.3020499,Tennessee
+Millikin University,-88.97426281,39.842988,Illinois
+Millsaps College,-90.1798534,32.32193895,Mississippi
+Milwaukee School of Engineering,-87.90793615,43.04576595,Wisconsin
+Mississippi College,-90.33188238,32.3354174,Mississippi
+Mississippi State University,-88.7943232,33.4386876,Mississippi
+Mississippi University for Women,-88.41966236,33.49080445,Mississippi
+Missouri Southern State College,-94.583381,37.084828,Missouri
+Missouri Valley College,-93.19077081,39.10644115,Missouri
+Monmouth College,-90.63839027,40.9144918,Illinois
+Monmouth College IL,-90.63839027,40.9144918,Illinois
+Montana College of Mineral Sci. & Tech.,-112.037811,46.011859,Montana
+Montana State University,-111.0793057,45.66381885,Montana
+Montclair State University,-74.19692132,40.86468785,New Jersey
+Montreat-Anderson College,-82.295856,35.642148,North Carolina
+Moorhead State University,-96.75641238,46.8672113,Minnesota
+Moravian College,-75.38230097,40.6182869,Pennsylvania
+Morehouse College,-84.41609506,33.74737405,Georgia
+Morningside College,-96.36011662,42.4744179,Iowa
+Morris College,-80.241073,33.699742,South Carolina
+Mount Holyoke College,-72.56966884,42.25532845,Massachusetts
+Mount Marty College,-97.41017806,42.8729932,South Dakota
+Mount Mary College,-88.03145158,43.07252155,Wisconsin
+Mount Mercy College,-91.20483,41.986238,Iowa
+Mount Saint Clare College,-90.51461,40.420681,Iowa
+Mount Saint Mary College,-74.01293212,41.5118052,New York
+Mount Saint Mary's College,-84.3717683,39.08308995,Ohio
+Mount St. Mary's College,-76.285285,40.515679,Maryland
+Mount Union College,-81.375067,40.915924,Ohio
+Mount Vernon Nazarene College,-82.408412,40.391503,Ohio
+Muhlenberg College,-75.51048391,40.59758265,Pennsylvania
+Murray State University,-88.322088,36.6129699,Kentucky
+Muskingum College,-81.7367946,39.9961837,Ohio
+National-Louis University,-87.621432,41.925329,Illinois
+Nazareth College of Rochester,-77.52006822,43.1025786,New York
+New Jersey Institute of Technology,-74.1790316,40.7421254,New Jersey
+New Mexico Institute of Mining and Tech.,-107.741969,34.067307,New Mexico
+New York University,-73.99501481,40.7292053,New York
+Newberry College,-81.627028,34.28522,South Carolina
+Niagara University,-79.03488918,43.13660305,New York
+North Adams State College,-73.1045006,42.6916179,Massachusetts
+North Carolina A. & T. State University,-79.773821,36.076662,North Carolina
+North Carolina State University at Raleigh,-78.674307,35.783101,North Carolina
+North Carolina Wesleyan College,-77.77490979,36.01543505,North Carolina
+North Central College,-88.14274924,41.77436545,Illinois
+North Dakota State University,-96.81826543,46.897155,North Dakota
+North Park College,-87.712841,41.97868,Illinois
+Northeast Missouri State University,-91.94695,40.201682,Missouri
+Northeastern University,-71.08783834,42.33907025,Massachusetts
+Northern Arizona University,-111.6550004,35.1834428,Arizona
+Northern Illinois University,-88.78267841,41.9370934,Illinois
+Northwest Missouri State University,-94.88624744,40.35422615,Missouri
+Northwest Nazarene College,-116.92515,43.586575,Idaho
+Northwestern College,-96.05432154,42.9988704,Iowa
+Northwestern University,-87.67529455,42.0557157,Illinois
+Norwich University,-72.66126955,44.13917905,Vermont
+Notre Dame College,-81.51602277,41.50719985,Ohio
+Oakland University,-83.20655752,42.66663325,Michigan
+Oberlin College,-82.22146701,41.2959178,Ohio
+Occidental College,-118.210239,34.126399,California
+Oglethorpe University,-84.3343891,33.8763258,Georgia
+Ohio Northern University,-83.83356241,40.76557505,Ohio
+Ohio University,-82.10156481,39.32417815,Ohio
+Ohio Wesleyan University,-83.06427625,40.292858,Ohio
+Oklahoma Baptist University,-96.9311341,35.3606255,Oklahoma
+Oklahoma Christian University,-97.47031966,35.6127098,Oklahoma
+Oklahoma State University,-96.350966,36.128359,Oklahoma
+Otterbein College,-82.93625856,40.12769685,Ohio
+Ouachita Baptist University,-93.05250678,34.1307617,Arkansas
+Our Lady of the Lake University,-98.54353418,29.42700265,Texas
+Pace University,-74.00480444,40.7111164,New York
+Pacific Lutheran University,-122.4443889,47.14375725,Washington
+Pacific Union College,-122.447501,38.570669,California
+Pacific University,-123.1091121,45.52186005,Oregon
+Pembroke State University,-73.7298881,40.7741237,New York
+Pennsylvania State Univ. Main Campus,-77.858259,40.798214,Pennsylvania
+Pepperdine University,-118.599893,34.041448,California
+Peru State College,-95.7311147,40.4735064,Nebraska
+Pfeiffer College,-80.439413,35.482512,North Carolina
+Philadelphia Coll. of Textiles and Sci.,-75.180793,40.026173,Pennsylvania
+Phillips University,-93.6393432,42.0007192,Iowa
+Piedmont College,-83.5427252,34.5660291,Georgia
+Pikeville College,-82.5209472,37.478897,Kentucky
+Pitzer College,-117.710133,34.097486,California
+Point Loma Nazarene College,-117.259517,32.719998,California
+Point Park College,-79.993869,40.441737,Pennsylvania
+Polytechnic University,-73.936046,40.694154,New York
+Prairie View A. and M. University,-95.986187,30.080243,Texas
+Presbyterian College,-81.934384,34.439996,South Carolina
+Princeton University,-74.65836549,40.33867515,New Jersey
+Providence College,-71.43548863,41.8442938,Rhode Island
+Purdue University at West Lafayette,-86.919116,40.428879,Indiana
+Queens College,-73.816307,40.736336,New York
+Quincy University,-91.3896918,39.95544185,Illinois
+Quinnipiac College,-72.916878,41.453352,Connecticut
+Radford University,-80.54996124,37.13702415,Virginia
+Ramapo College of New Jersey,-74.17382352,41.08224455,New Jersey
+Randolph-Macon College,-77.47954213,37.7625105,Virginia
+Randolph-Macon Woman's College,-79.276059,37.415444,Virginia
+Reed College,-122.6310136,45.48149925,Oregon
+Regis College,-71.30852443,42.3506516,Massachusetts
+Rensselaer Polytechnic Institute,-73.67966782,42.7298969,New York
+Rhodes College,-89.98893549,35.15564375,Tennessee
+Rider University,-74.74044674,40.28155125,New Jersey
+Ripon College,-88.85393861,43.84102355,Wisconsin
+Rivier College,-71.490162,42.729263,New Hampshire
+Roanoke College,-77.02270613,36.3261617,North Carolina
+Rockhurst College,-94.59462323,39.05185585,Missouri
+Rocky Mountain College,-108.5548196,45.79702385,Montana
+Roger Williams University,-71.2619371,41.64921,Rhode Island
+Rollins College,-81.3489577,28.5925001,Florida
+Rosary College,-87.878914,41.890832,Illinois
+Rowan College of New Jersey,-75.05700713,39.4386372,New Jersey
+Rutgers State University at Camden,-75.121214,39.949062,New Jersey
+Rutgers State University at Newark,-74.190218,40.74366,New Jersey
+Rutgers at New Brunswick,-74.45326658,40.50397805,New Jersey
+SUNY College  at Brockport,-77.95135867,43.209853,New York
+SUNY College at Buffalo,-78.88394221,42.9336675,New York
+SUNY College at Cortland,-76.19617275,42.5927112,New York
+SUNY College at Fredonia,-79.318282,42.456042,New York
+SUNY College at Geneseo,-77.821457,42.796089,New York
+SUNY College at New Paltz,-74.085488,41.724346,New York
+SUNY College at Oswego,-76.539664,43.449875,New York
+SUNY College at Plattsburgh,-73.454792,44.695855,New York
+SUNY College at Potsdam,-74.978676,44.664511,New York
+SUNY College at Purchase,-73.706167,41.047138,New York
+SUNY at Albany,-73.820929,42.689242,New York
+SUNY at Binghamton,-75.97066066,42.08779975,New York
+SUNY at Buffalo,-78.7852135,43.00188805,New York
+SUNY at Stony Brook,-73.126401,40.914477,New York
+Sacred Heart University,-73.249658,41.199799,Connecticut
+Saint Ambrose University,-90.576968,41.529904,Iowa
+Saint Anselm College,-71.50775002,42.98355765,New Hampshire
+Saint Cloud State University,-94.15122846,45.54781165,Minnesota
+Saint Francis College,-73.99220307,40.6930666,New York
+Saint Francis College IN,-85.17898051,41.08693075,Indiana
+Saint John's University,-94.39463249,45.58088975,Minnesota
+Saint Joseph College,-72.523259,41.979789,Connecticut
+Saint Joseph's College,-70.304215,43.804975,Maine
+Saint Joseph's College IN,-86.928394,39.909387,Indiana
+Saint Joseph's University,-75.24151167,39.99652965,Pennsylvania
+Saint Louis University,-90.23184327,38.635359,Missouri
+Saint Mary's College,-86.25628011,41.70747445,Indiana
+Saint Mary's College of Minnesota,-92.999481,44.036951,Minnesota
+Saint Mary-of-the-Woods College,-87.45979484,39.509411,Indiana
+Saint Michael's College,-73.16559402,44.4952594,Vermont
+Saint Olaf College,-93.16009,44.461472,Minnesota
+Saint Peter's College,-74.078612,40.731172,New Jersey
+Saint Vincent College,-79.40458639,40.28999185,Pennsylvania
+Saint Xavier University,-87.71463118,41.70792405,Illinois
+Salem College,-80.23981471,36.0861216,North Carolina
+Salem-Teikyo University,-80.584677,39.512458,West Virginia
+Salisbury State University,-75.600098,38.348238,Maryland
+Samford University,-86.7933225,33.4651067,Alabama
+San Diego State University,-117.146139,32.775724,California
+Santa Clara University,-121.941705,37.349158,California
+Sarah Lawrence College,-73.84497733,40.9344239,New York
+Savannah Coll. of Art and Design,-81.097937,32.071527,Georgia
+Schreiner College,-99.243186,30.019445,Texas
+Scripps College,-117.70956,34.104834,California
+Seattle Pacific University,-122.3619664,47.64886755,Washington
+Seattle University,-122.3187983,47.60950425,Washington
+Seton Hall University,-74.24689208,40.7433314,New Jersey
+Seton Hill College,-79.582938,40.312116,Pennsylvania
+Shippensburg University of Penn.,-77.309418,40.05526,Pennsylvania
+Shorter College,-85.19527511,34.25942875,Georgia
+Siena College,-73.66783,42.718873,New York
+Siena Heights College,-83.774108,41.911896,Michigan
+Simmons College,-71.10043184,42.33893545,Massachusetts
+Simpson College,-93.56605457,41.36633315,Iowa
+Sioux Falls College,-96.722343,43.533277,South Dakota
+Skidmore College,-73.783985,43.098732,New York
+Smith College,-72.64039315,42.31622385,Massachusetts
+South Dakota State University,-96.79823712,44.344449,South Dakota
+Southeast Missouri State University,-89.5311135,37.3126218,Missouri
+Southeastern Oklahoma State Univ.,-96.37561034,34.0083179,Oklahoma
+Southern California College,-117.832047,33.898647,California
+Southern Illinois University at Edwardsville,-89.302356,38.794277,Illinois
+Southern Methodist University,-96.7815281,32.84180115,Texas
+Southwest Baptist University,-93.40873074,37.60076005,Missouri
+Southwest Missouri State University,-93.222122,37.198135,Missouri
+Southwest State University,-95.997988,44.379179,Minnesota
+Southwestern Adventist College,-97.18941,32.011588,Texas
+Southwestern College,-96.97401911,37.24924525,Kansas
+Southwestern University,-97.66274098,30.6371513,Texas
+Spalding University,-85.76689578,38.2409127,Kentucky
+Spelman College,-84.41128662,33.74519965,Georgia
+Spring Arbor College,-84.5538889,42.2058333,Michigan
+St. Bonaventure University,-78.48165259,42.0767249,New York
+St. John Fisher College,-77.510747,43.114276,New York
+St. John's College,-70.350739,43.860663,New Mexico
+St. Lawrence University,-75.14814464,44.5875837,New York
+St. Martin's College,-122.8947,47.0621,Washington
+St. Mary's College of California,-122.23493,37.834953,California
+St. Mary's College of Maryland,-76.42523646,38.1903261,Maryland
+St. Mary's University of San Antonio,-98.565302,29.462122,Texas
+St. Norbert College,-88.0673452,44.4439887,Wisconsin
+St. Paul's College,-77.389488,37.062151,Virginia
+St. Thomas Aquinas College,-74.16701,41.171462,New York
+Stephens College,-92.3229551,38.9505943,Missouri
+Stetson University,-81.30054112,29.03653465,Florida
+Stevens Institute of Technology,-74.02523923,40.7448096,New Jersey
+Stockton College of New Jersey,-74.485648,39.491815,New Jersey
+Stonehill College,-71.07932571,42.05997765,Massachusetts
+Susquehanna University,-76.87503743,40.79688725,Pennsylvania
+Sweet Briar College,-79.08333234,37.55532895,Virginia
+Syracuse University,-76.1185536,43.01711285,New York
+Tabor College,-97.1997449,38.34564655,Kansas
+Talladega College,-86.11488779,33.4325135,Alabama
+Taylor University,-85.50118837,40.45608125,Indiana
+Tennessee Wesleyan College,-84.5918786,35.4450734,Tennessee
+Texas A&M Univ. at College Station,-96.342972,30.614058,Texas
+Texas A&M University at Galveston,-94.81901798,29.3161965,Texas
+Texas Christian University,-97.36119385,32.7080148,Texas
+Texas Lutheran College,-97.98518003,29.57399695,Texas
+Texas Southern University,-95.35962668,29.7209058,Texas
+Texas Wesleyan University,-97.28013399,32.73306755,Texas
+The Citadel,-79.949459,32.798458,South Carolina
+Thiel College,-80.3842338,41.4136656,Pennsylvania
+Tiffin University,-83.18530623,41.11909795,Ohio
+Transylvania University,-84.49398716,38.053107,Kentucky
+Trenton State College,-74.745423,40.274477,New Jersey
+Tri-State University,-85.01059822,41.63111405,Indiana
+Trinity College CT,-72.689173,41.739402,Connecticut
+Trinity College DC,-77.038874,38.924725,District of Columbia
+Trinity College VT,-73.191399,44.108114,Vermont
+Trinity University,-98.48350835,29.4616913,Texas
+Tulane University,-90.12010089,29.94121955,Louisiana
+Tusculum College,-82.757617,36.18204815,Tennessee
+Tuskegee University,-85.70673352,32.4301095,Alabama
+Union College KY,-83.8879237,36.8720992,Kentucky
+Union College NY,-73.92839165,42.8175752,New York
+Univ. of Wisconsin at OshKosh,-88.545397,44.038773,Wisconsin
+University of Alabama at Birmingham,-86.80604756,33.5016153,Alabama
+University of Arkansas at Fayetteville,-94.180812,36.063597,Arkansas
+University of California at Berkeley,-122.2387092,37.87425655,California
+University of California at Irvine,-117.824856,33.644366,California
+University of Central Florida,-81.19712501,28.59899755,Florida
+University of Charleston,-81.62178093,38.33513485,West Virginia
+University of Chicago,-87.60084387,41.79139685,Illinois
+University of Cincinnati,-84.51576196,39.1318613,Ohio
+University of Connecticut at Storrs,-72.250283,41.806722,Connecticut
+University of Dallas,-96.92256763,32.8487635,Texas
+University of Dayton,-84.17919478,39.73845985,Ohio
+University of Delaware,-75.748221,39.683728,Delaware
+University of Denver,-104.961141,39.674328,Colorado
+University of Detroit Mercy,-83.13786011,42.41403185,Michigan
+University of Dubuque,-90.69656362,42.495065,Iowa
+University of Evansville,-87.53229766,37.9735131,Indiana
+University of Florida,-82.34901302,29.6328837,Florida
+University of Georgia,-83.52225572,31.48119265,Georgia
+University of Hartford,-72.713651,41.804843,Connecticut
+University of Hawaii at Manoa,-157.8186919,21.2982795,Hawaii
+University of Illinois - Urbana,-88.23851576,40.09911835,Illinois
+University of Illinois at Chicago,-87.64858476,41.8689223,Illinois
+University of Indianapolis,-86.13445225,39.70939645,Indiana
+University of Kansas,-95.2630888,38.9534918,Kansas
+University of La Verne,-117.772363,34.100401,California
+University of Louisville,-85.75770751,38.21332235,Kentucky
+University of Maine at Farmington,-70.15329898,44.66721785,Maine
+University of Maine at Machias,-67.45654324,44.7091327,Maine
+University of Maine at Presque Isle,-68.01803322,46.670963,Maine
+University of Maryland at Baltimore County,-76.60821736,39.38851895,Maryland
+University of Maryland at College Park,-76.944852,38.988425,Maryland
+University of Massachusetts at Amherst,-72.530137,42.391811,Massachusetts
+University of Massachusetts at Dartmouth,-71.007806,41.6258,Massachusetts
+University of Miami,-80.27870688,25.71727245,Florida
+University of Michigan at Ann Arbor,-83.740882,42.278043,Michigan
+University of Minnesota Twin Cities,-93.1794558,44.9863392,Minnesota
+University of Minnesota at Duluth,-92.125379,46.815844,Minnesota
+University of Minnesota at Morris,-95.989068,45.586581,Minnesota
+University of Mississippi,-89.53963491,34.3646125,Mississippi
+University of Missouri at Columbia,-92.32520777,38.9340762,Missouri
+University of Missouri at Rolla,-91.963781,37.95288,Missouri
+University of Missouri at Saint Louis,-90.307399,38.70967,Missouri
+University of Mobile,-88.12424385,30.800756,Alabama
+University of Montevallo,-86.86523752,33.1060774,Alabama
+University of Nebraska at Lincoln,-96.700863,40.818414,Nebraska
+University of New England,-70.38972707,43.45579395,Maine
+University of New Hampshire,-70.94620785,43.1350987,New Hampshire
+University of North Carolina at Asheville,-82.556692,35.615058,North Carolina
+University of North Carolina at Chapel Hill,-79.04775327,35.90503535,North Carolina
+University of North Carolina at Charlotte,-80.7349705,35.30649445,North Carolina
+University of North Carolina at Greensboro,-79.81036691,36.0679595,North Carolina
+University of North Carolina at Wilmington,-77.86907744,34.2249827,North Carolina
+University of North Dakota,-97.07212085,47.92654115,North Dakota
+University of North Florida,-81.50965611,30.2689865,Florida
+University of North Texas,-97.15147625,33.2098926,Texas
+University of Northern Colorado,-104.703758,40.401672,Colorado
+University of Northern Iowa,-92.46295221,42.51495695,Iowa
+University of Notre Dame,-86.23822026,41.70456775,Indiana
+University of Oklahoma,-97.44570828,35.1959878,Oklahoma
+University of Oregon,-123.0717603,44.04441965,Oregon
+University of Pennsylvania,-75.189644,39.9493382,Pennsylvania
+University of Pittsburgh-Main Campus,-79.958837,40.444517,Pennsylvania
+University of Portland,-122.7291611,45.5741972,Oregon
+University of Puget Sound,-122.4810897,47.26159295,Washington
+University of Rhode Island,-71.53446498,41.4872969,Rhode Island
+University of Richmond,-77.54129937,37.57586225,Virginia
+University of Rochester,-77.6307297,43.1226985,New York
+University of San Diego,-117.18704,32.772666,California
+University of San Francisco,-122.451083,37.776345,California
+University of Sci. and Arts of Oklahoma,-97.956385,35.305559,Oklahoma
+University of Scranton,-75.65774968,41.40644645,Pennsylvania
+University of South Carolina at Aiken,-81.7680515,33.5733017,South Carolina
+University of South Carolina at Columbia,-81.031734,33.998842,South Carolina
+University of South Florida,-82.41383619,28.0599999,Florida
+University of Southern California,-118.283416,34.022742,California
+University of Southern Colorado,-104.625859,37.340309,Colorado
+University of Southern Indiana,-87.67420319,37.9584686,Indiana
+University of Southern Mississippi,-89.33673117,31.3286452,Mississippi
+University of St. Thomas MN,-93.1894522,44.94210585,Minnesota
+University of St. Thomas TX,-95.39417195,29.7368408,Texas
+University of Tennessee at Knoxville,-83.929,35.9513,Tennessee
+University of Texas at Arlington,-97.11202127,32.7284713,Texas
+University of Texas at Austin,-97.73393515,30.2851494,Texas
+University of Texas at San Antonio,-98.571711,29.584964,Texas
+University of Tulsa,-95.94596024,36.1523306,Oklahoma
+University of Utah,-111.8368719,40.7628137,Utah
+University of Vermont,-73.1941468,44.4737365,Vermont
+University of Virginia,-78.50550841,38.0410576,Virginia
+University of Washington,-122.3027072,47.65566435,Washington
+University of West Florida,-87.21620153,30.5479646,Florida
+University of Wisconsin at Green Bay,-87.967003,44.531109,Wisconsin
+University of Wisconsin at Madison,-89.4589781,43.0751882,Wisconsin
+University of Wisconsin at Milwaukee,-88.26839975,43.02749065,Wisconsin
+University of Wisconsin-Stout,-91.92558042,44.8726718,Wisconsin
+University of Wisconsin-Superior,-92.088422,46.7178089,Wisconsin
+University of Wisconsin-Whitewater,-88.74366643,42.84435955,Wisconsin
+University of Wyoming,-105.5643232,41.3142264,Wyoming
+University of the Arts,-75.16559732,39.9460063,Pennsylvania
+University of the Pacific,-121.4361,37.9772,California
+University of the South,-85.91895059,35.20440405,Tennessee
+Upper Iowa University,-91.79330429,42.83958545,Iowa
+Ursinus College,-75.45531989,40.1954088,Pennsylvania
+Ursuline College,-81.5896,41.5132,Ohio
+Valley City State University,-98.00276371,46.91858615,North Dakota
+Valparaiso University,-87.04460183,41.46295935,Indiana
+Vanderbilt University,-86.80281889,36.14380105,Tennessee
+Vassar College,-73.89338274,41.68616635,New York
+Villanova University,-75.34202332,40.0367774,Pennsylvania
+Virginia Commonwealth University,-77.4540609,37.54612465,Virginia
+Virginia State University,-77.41950354,37.2383399,Virginia
+Virginia Tech,-80.42728184,37.22192675,Virginia
+Virginia Union University,-77.45105977,37.5617598,Virginia
+Virginia Wesleyan College,-80.21826091,38.99047565,West Virginia
+Viterbo College,-91.2432,43.8125,Wisconsin
+Voorhees College,-81.3301,33.4662,South Carolina
+Wabash College,-86.9072699,40.0367517,Indiana
+Wagner College,-74.09355867,40.6147187,New York
+Wake Forest University,-80.2781152,36.134335,North Carolina
+Walsh University,-81.3687684,40.8736512,Ohio
+Warren Wilson College,-82.4406782,35.6134478,North Carolina
+Wartburg College,-92.48568383,42.73114305,Iowa
+Washington College,-76.0692567,39.218376,Maryland
+Washington State University,-117.1498035,46.7337716,Washington
+Washington University,-90.306892,38.648789,Missouri
+Washington and Jefferson College,-80.242728,40.170771,Pennsylvania
+Washington and Lee University,-79.4477349,37.7929993,Virginia
+Wayne State College,-97.01343247,42.24281035,Nebraska
+Waynesburg College,-80.1889299,39.8993208,Pennsylvania
+Webber College,-81.5281309,27.8355818,Florida
+Webster University,-90.3206,38.6514,Missouri
+Wellesley College,-71.30327516,42.29177605,Massachusetts
+Wells College,-76.69341322,42.74411755,New York
+Wentworth Institute of Technology,-71.09537295,42.33657245,Massachusetts
+Wesley College,-75.5267,39.1571,Delaware
+Wesleyan University,-72.7209,41.5561,Connecticut
+West Chester University of Penn.,-75.52217422,40.0529386,Pennsylvania
+West Liberty State College,-80.5986853,40.169794,West Virginia
+West Virginia Wesleyan College,-80.21826091,38.99047565,West Virginia
+Western Carolina University,-83.19904022,35.3100146,North Carolina
+Western Maryland College,-77.00371453,39.5852104,Maryland
+Western Michigan University,-85.60950673,42.28333755,Michigan
+Western New England College,-72.51478135,42.1125825,Massachusetts
+Western State College of Colorado,-107.3245,38.3482,Colorado
+Western Washington University,-122.4874638,48.734141,Washington
+Westfield State College,-72.802711,42.12941,Massachusetts
+Westminster College,-80.32868957,41.1182434,Pennsylvania
+Westminster College MO,-91.95683344,38.84916975,Missouri
+Westminster College PA,-80.32868957,41.1182434,Pennsylvania
+Westminster College of Salt Lake City,-111.849498,40.695168,Utah
+Westmont College,-119.6634,34.448,California
+Wheaton College IL,-88.09755525,41.86963745,Illinois
+Wheeling Jesuit College,-80.722534,40.067192,West Virginia
+Whitman College,-118.3303178,46.0705665,Washington
+Whittier College,-118.0155,33.9792,California
+Whitworth College,-117.4166549,47.7507618,Washington
+Widener University,-75.35659321,39.8606395,Pennsylvania
+Wilkes University,-75.8902922,41.2444276,Pennsylvania
+Willamette University,-123.0308129,44.9355889,Oregon
+William Jewell College,-94.41122223,39.2513794,Missouri
+William Woods University,-91.950181,38.860319,Missouri
+Williams College,-73.2030082,42.7130236,Massachusetts
+Wilson College,-77.65261807,39.95102745,Pennsylvania
+Wingate College,-80.4256,34.9102,North Carolina
+Winona State University,-91.64403771,44.0469203,Minnesota
+Winthrop University,-81.0291,34.9435,South Carolina
+Wisconsin Lutheran College,-88.02194662,43.03726535,Wisconsin
+Wittenberg University,-83.81305545,39.9351075,Ohio
+Wofford College,-81.9313,34.953,South Carolina
+Worcester Polytechnic Institute,-71.80845675,42.274315,Massachusetts
+Worcester State College,-71.804054,42.267462,Massachusetts
+Xavier University,-84.47083471,39.1513078,Ohio
+Xavier University of Louisiana,-90.10922359,29.9638897,Louisiana
+Yale University,-72.928,41.3163,Connecticut
+York College of Pennsylvania,-76.72679844,39.9474471,Pennsylvania
